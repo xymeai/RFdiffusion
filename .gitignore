@@ -1,6 +1,6 @@
 *.py[cod]
 rfdiffusion.egg-info
-
+.idea
 models/
 schedules/
 
